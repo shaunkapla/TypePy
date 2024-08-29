@@ -58,7 +58,7 @@
 
 <!-- CURRENT BRANCH -->
 ## Current Branch
-Shaun Kapla (Creator) --> main
+Shaun Kapla (Creator) --> creating_dataclass_decorator
 
 ## Installation
 

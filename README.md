@@ -14,7 +14,7 @@
     <img src="https://i.redd.it/umtx1gc28eb41.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">strongpy</h3>
+  <h3 align="center">TypePy</h3>
   <h5 align="center">Creator: Shaun Kapla</h5>
 
 </div>

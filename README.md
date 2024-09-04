@@ -72,8 +72,8 @@ Shaun Kapla (Creator) --> creating_function_decorator
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/shaunkapla/TyPy.git
-   cd TyPy
+   git clone https://github.com/shaunkapla/py_strong_type.git
+   cd py_strong_type
    ```
 
 3. **Activate virtual environment:**

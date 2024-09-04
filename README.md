@@ -133,16 +133,16 @@ Project Link: [https://github.com/shaunkapla/TyPy](https://github.com/shaunkapla
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/shaunkapla/TyPy.svg?style=for-the-badge
-[contributors-url]: https://github.com/shaunkapla/TyPy/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaunkapla/TyPy?style=for-the-badge
-[forks-url]: https://github.com/shaunkapla/TyPy/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaunkapla/TyPy?style=for-the-badge
-[stars-url]: https://github.com/shaunkapla/TyPy/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaunkapla/TyPy?style=for-the-badge
-[issues-url]: https://github.com/shaunkapla/TyPy/issues
-[license-shield]: https://img.shields.io/github/license/shaunkapla/TyPy?style=for-the-badge
-[license-url]: https://github.com/shaunkapla/TyPy/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/shaunkapla/py_strong_type.svg?style=for-the-badge
+[contributors-url]: https://github.com/shaunkapla/py_strong_type/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/shaunkapla/py_strong_type?style=for-the-badge
+[forks-url]: https://github.com/shaunkapla/py_strong_type/network/members
+[stars-shield]: https://img.shields.io/github/stars/shaunkapla/py_strong_type?style=for-the-badge
+[stars-url]: https://github.com/shaunkapla/py_strong_type/stargazers
+[issues-shield]: https://img.shields.io/github/issues/shaunkapla/py_strong_type?style=for-the-badge
+[issues-url]: https://github.com/shaunkapla/py_strong_type/issues
+[license-shield]: https://img.shields.io/github/license/shaunkapla/py_strong_type?style=for-the-badge
+[license-url]: https://github.com/shaunkapla/py_strong_type/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/shaunkapla
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

@@ -1,0 +1,1 @@
+from .function_decorator import function_type_checker

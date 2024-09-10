@@ -29,7 +29,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#current-branch">Current Branch</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -55,10 +54,6 @@
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CURRENT BRANCH -->
-## Current Branch
-Shaun Kapla (Creator) --> creating_function_decorator
 
 ## Installation
 

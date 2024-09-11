@@ -1,1 +1,2 @@
 from .functs.function_decorator import function_type_checker
+from .dataclasses.dataclass_decorator import dataclass_type_check

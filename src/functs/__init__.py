@@ -1,1 +1,1 @@
-from function_decorator import *
+from .function_decorator import function_type_checker

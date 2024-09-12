@@ -1,0 +1,1 @@
+from .dataclass_decorator import dataclass_type_check

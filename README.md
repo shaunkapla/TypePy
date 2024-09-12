@@ -10,11 +10,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/shaunkapla/py_strong_type">
+  <a href="https://github.com/shaunkapla/TyPy">
     <img src="https://i.redd.it/umtx1gc28eb41.jpg" alt="Logo" width="200" height="200">
   </a>
 
-  <h3 align="center">strongpy</h3>
+  <h3 align="center">TyPy</h3>
   <h5 align="center">Creator: Shaun Kapla</h5>
 
 </div>
@@ -29,7 +29,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#current-branch">Current Branch</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -56,15 +55,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CURRENT BRANCH -->
-## Current Branch
-Shaun Kapla (Creator) --> main
-
 ## Installation
 
 1. **Download and Install Python:**
 
-   Ensure you have the last Python version  installed. If not, download and install it from Python's official website. For detailed instructions, refer to the tutorials:
+   Ensure you have the latest Python version installed. If not, download and install it from Python's official website. For detailed instructions, refer to the tutorials:
 
    - [How to Install Python on Windows](https://www.geeksforgeeks.org/how-to-install-python-on-windows/)
    - [How to Install Python on Linux](https://www.geeksforgeeks.org/how-to-install-python-on-linux/)
@@ -118,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Shaun Kapla - [@shaun.kapla](https://www.instagram.com/shaun.kapla/)
 
-Project Link: [https://github.com/shaunkapla/py_strong_type](https://github.com/shaunkapla/py_strong_type)
+Project Link: [https://github.com/shaunkapla/TyPy](https://github.com/shaunkapla/TyPy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
